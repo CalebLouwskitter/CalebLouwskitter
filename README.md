@@ -120,8 +120,8 @@ I follow best practices in software architecture, DevOps, and CI/CD, while conti
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CalebLouwskitter)
+[![Email](https://img.shields.io/badge/-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.CalebLouwskitter@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 ---
