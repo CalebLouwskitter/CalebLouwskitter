@@ -1,8 +1,8 @@
 # Software Developer | Systems Analyst | Cloud & DevOps Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![Profile Views](https://komarev.com/ghpvc/?username=CalebLouwskitter&color=blue&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CalebLouwskitter)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:CalebLouwskitter@Gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 **Bridging software engineering with cloud, mobile, and immersive technologies.**
@@ -76,7 +76,7 @@ I follow best practices in software architecture, DevOps, and CI/CD, while conti
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebLouwskitter&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebLouwskitter&layout=compact&theme=vue-dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=vue-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CalebLouwskitter&theme=vue-dark&hide_border=true)
 
 ---
 
