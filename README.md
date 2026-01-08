@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CalebLouwskitter&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CalebLouwskitter)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:CalebLouwskitter@Gmail.com)
-[![Portfolio]([https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com](https://vercel-portfolio-eta-eight.vercel.app/))]
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel-portfolio-eta-eight.vercel.app/)
 
 **Bridging software engineering with cloud, mobile, and immersive technologies.**
 
