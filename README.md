@@ -27,6 +27,63 @@ I follow best practices in software architecture, DevOps, and CI/CD, while conti
 
 ---
 
+## 🚀 Featured Projects
+
+### 💼 [bureau-bridge](https://github.com/CalebLouwskitter/bureau-bridge)
+**Financial systems lab bridging legacy PHP and a real GnuCOBOL ledger to TypeScript, SQL Server, and Expo with idempotent recovery.**
+
+- **Idempotent batch recovery across async boundaries:** Recovers lost batch results without posting twice using a core processed-reference journal, payload conflict checks, and core inquiry.
+- **Durable delivery & authoritative ledger:** Coordinates SQL Server outbox transactions and leased worker retries while keeping GnuCOBOL as the financial authority for balances.
+- **Deterministic EFT payouts & reconciliation:** Generates hash-checked fixed-width payout files under a lock, checks the demo bank before resending, and reconciles settlement accounts against bank returns.
+
+`TypeScript` · `GnuCOBOL` · `PHP` · `Microsoft SQL Server` · `MariaDB` · `Expo` · `Docker` · `Python`
+
+---
+
+### 🔒 [INSYPOEPaymentGateway](https://github.com/CalebLouwskitter/INSYPOEPaymentGateway) *(Team project, lead developer)*
+**International payments portal featuring customer and staff portals backed by an attacker-style security review and exploit test suite.**
+
+- **Hardened against 12 scripted attack vectors:** Conducted post-submission security review testing NoSQL injection, IP-spoofed rate limiting, CSRF, IDOR, and privilege escalation, fixing 16 vulnerabilities with automated test gates.
+- **Role-based separation & atomic reviews:** Implemented distinct customer and employee JWT authentication schemes with algorithm pinning, token denylists, and race-safe atomic payment approval workflows.
+- **DevSecOps quality gates:** Integrated automated Jest attack-scenario suites, npm audit security gates, Gitleaks history scanning, and CodeQL static analysis in CI.
+
+`React` · `Node.js` · `Express` · `MongoDB` · `Docker` · `GitHub Actions` · `Jest`
+
+---
+
+### 🎯 [KovaakstoAgent](https://github.com/CalebLouwskitter/KovaakstoAgent)
+**Local Windows desktop application and training dashboard turning KovaaK's aim-trainer exports into longitudinal progress tracking and AI coaching.**
+
+- **Automated ingestion & export parsing:** Detects Steam installation paths via the Windows registry, watches filesystem changes, and normalises multi-section CSV exports into structured session data.
+- **Context-preserving local memory store:** Retains normalized historical sessions, player goals, constraints, and notes in SQLite, assembling deterministic context packets for multiple LLM providers (OpenAI, OpenRouter, Gemini).
+- **Zero-admin desktop distribution:** Packaged with Inno Setup and PyInstaller featuring a background system tray watcher, WebView2 frontend, and loopback request origin validation.
+
+`Python` · `SQLite` · `pywebview` · `Inno Setup` · `PyInstaller` · `daisyUI`
+
+---
+
+### 🌐 [geo-core](https://github.com/CalebLouwskitter/geo-core)
+**Zero-dependency, platform-agnostic TypeScript toolkit for spatial calculations, geometric operations, and GIS format interchange.**
+
+- **Platform-free spatial algorithms:** Implements haversine distance, bearings, Douglas-Peucker line simplification, ray-casting point-in-polygon (with holes), and polyline snapping with zero runtime dependencies.
+- **Bi-directional GIS format conversion:** Parses, validates, and converts spatial datasets between GPX (1.0/1.1) and GeoJSON specifications while preserving metadata and temporal attributes.
+- **Modern packaging & strict verification:** Bundled with tsup for dual ESM/CommonJS distribution with full TypeScript declarations, tested with Vitest in Node environments.
+
+`TypeScript` · `Node.js` · `Vitest` · `tsup` · `Changesets`
+
+---
+
+### 🐎 [WIL_App](https://github.com/CalebLouwskitter/WIL_App) *(University team project)*
+**Offline-first mobile application developed for the Sardinia Bay Horse Riders Association (SBHRA) to record trail rides and monitor rider safety.**
+
+- **Offline-resilient trail tracking:** Logs GPS coordinates locally on-device during rides and automatically synchronises with Firebase Firestore once network connectivity is restored.
+- **Incident reporting & safety features:** Supports animal sighting and trail obstruction reporting with photos, live location SOS alerts, and GPX track export for external mapping platforms.
+- **Compliance & analytics dashboard:** Aggregates trail usage data into administrative views to generate monthly, quarterly, and annual compliance reports. *(Caleb Louwskitter contributed: Firebase integration, reports & sightings, and dashboard).*
+
+`React Native` · `Expo (SDK 57)` · `TypeScript` · `Firebase` · `Google Maps`
+
+---
+
 ## 🛠 Core Skills & Technologies
 
 ### **Languages & Frameworks**
