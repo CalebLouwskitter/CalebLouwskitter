@@ -19,11 +19,7 @@ Experienced in Full-Stack Development • API Engineering • Mobile Platforms �
 
 ## 🧠 About Me
 
-I'm a results-driven developer with a background in computer science and information systems, combining strong analytical skills with hands-on engineering expertise.
-
-My focus is on building scalable, maintainable software across web, mobile, and cloud environments — with a growing interest in real-time systems, AI tools, and immersive user experiences.
-
-I follow best practices in software architecture, DevOps, and CI/CD, while continuously exploring emerging technologies like LLM deployment and mixed reality interfaces.
+I am a software developer with a background in computer science and information systems, focused on building robust, reliable financial and operational systems. My recent engineering work spans legacy-to-modern systems integration and idempotent financial workflows (bridging GnuCOBOL and PHP to TypeScript and SQL Server), secure payment gateway architecture with hands-on threat modelling and attack mitigation, and offline-resilient mobile applications with custom geospatial toolkits. I value clear architectural boundaries, strict security controls, and end-to-end automated testing across web, mobile, and backend platforms.
 
 ---
 
