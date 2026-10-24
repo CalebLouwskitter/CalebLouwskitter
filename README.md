@@ -7,12 +7,6 @@
 
 **Bridging software engineering with cloud, mobile, and immersive technologies.**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-
 Experienced in Full-Stack Development • API Engineering • Mobile Platforms • Virtual & Mixed Reality • Infrastructure as Code
 
 ---
@@ -83,13 +77,14 @@ I am a software developer with a background in computer science and information 
 ## 🛠 Core Skills & Technologies
 
 ### **Languages & Frameworks**
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GnuCOBOL](https://img.shields.io/badge/-GnuCOBOL-BD8356?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### **Backend & API Development**
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -106,9 +101,9 @@ I am a software developer with a background in computer science and information 
 ![VR/AR](https://img.shields.io/badge/-VR%2FAR-FF6F00?style=for-the-badge&logo=oculus&logoColor=white)
 
 ### **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Cloud & DevOps**
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
