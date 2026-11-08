@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CalebLouwskitter&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CalebLouwskitter)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:CalebLouwskitter@Gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel-portfolio-eta-eight.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://caleblouwskitter.vercel.app/)
 
 **Bridging software engineering with cloud, mobile, and immersive technologies.**
 
@@ -170,7 +170,7 @@ I am a software developer with a background in computer science and information 
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CalebLouwskitter)
 [![Email](https://img.shields.io/badge/-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:CalebLouwskitter@Gmail.com)
-[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel-portfolio-eta-eight.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://caleblouwskitter.vercel.app/)
 
 ---
 
